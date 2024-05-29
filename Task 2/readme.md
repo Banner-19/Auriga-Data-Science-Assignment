@@ -1,4 +1,7 @@
-# Convolutional Layers in a CNN
+__Q2. Explain how convolutional layers in a CNN work. What are filters, strides, and padding? Use the image clicked by you and perform the above steps.__
+
+__Ans:__ 
+## Convolutional Layers in a CNN
 Convolutional layers are the fundamental building blocks of Convolutional Neural Networks (CNNs), commonly used in image processing and computer vision tasks. Here's how they work:
 
 1. __Filters (Kernels):__
